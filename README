@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=374
+
+This is the official ftplugin intended for installation in the *global* indent directory. 
+
+It fixes a bug in the version included with Vim 6.1.  (Comment ending in [,.*(] screws
+up the indenting for the next line(s).) 
+
